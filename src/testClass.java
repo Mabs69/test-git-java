@@ -13,6 +13,6 @@ public class testClass {
     }
     
     public void watda() {
-        
+        int keans;
     }
 }
